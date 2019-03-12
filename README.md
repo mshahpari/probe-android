@@ -15,6 +15,10 @@ censorship and other forms of network interference.
 <img src="assets/Google-Play-badge.png" alt="Get it on Google Play" height="60px"/>
 </a>
 
+<a href="https://aapks.com/apk/ooniprobe/" target="_blank">
+<img src="https://aapks.com/get.png" alt="Get it on AAPKS" height="60px"/>
+</a>
+
 </div>
 
 [Click here to report a bug](https://github.com/ooni/probe-android/issues/new)
